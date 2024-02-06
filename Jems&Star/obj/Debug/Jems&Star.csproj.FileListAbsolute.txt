@@ -1,0 +1,28 @@
+E:\My Project 2023\Game\Jems&Star\Jems&Star\bin\Debug\Jems&Star.exe.config
+E:\My Project 2023\Game\Jems&Star\Jems&Star\bin\Debug\Jems&Star.exe
+E:\My Project 2023\Game\Jems&Star\Jems&Star\bin\Debug\Jems&Star.pdb
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.AssemblyReference.cache
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems_Star.Form1.resources
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems_Star.Properties.Resources.resources
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.GenerateResource.cache
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.CoreCompileInputs.cache
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.exe
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.pdb
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Interop.WMPLib.dll
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.ResolveComReference.cache
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems_Star.SelectForm.resources
+E:\My Project 2023\Game\Jems&Star\Jems&Star\obj\Debug\Jems_Star.UserForm.resources
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\bin\Debug\Jems&Star.exe.config
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\bin\Debug\Jems&Star.exe
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\bin\Debug\Jems&Star.pdb
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.AssemblyReference.cache
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Interop.WMPLib.dll
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.ResolveComReference.cache
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems_Star.Form1.resources
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems_Star.Properties.Resources.resources
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems_Star.SelectForm.resources
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems_Star.UserForm.resources
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.GenerateResource.cache
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.csproj.CoreCompileInputs.cache
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.exe
+E:\HND 1st Semester\week 10\Jems&Star sample\Jems&Star\Jems&Star\obj\Debug\Jems&Star.pdb
